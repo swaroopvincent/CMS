@@ -8,5 +8,6 @@
   <name>CMS</name>
   <modules>
     <module>in-data-processor</module>
+    <module>in-data-persistence</module>
   </modules>
 </project>
